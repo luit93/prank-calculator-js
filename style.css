@@ -59,7 +59,7 @@ body {
 
 .items > * {
   min-height: 50px;
-  border: 0 solid rgba(0, 0, 0, 0.25);
+  /* border: 0 solid rgba(0, 0, 0, 0.25); */
   box-shadow: -4x 4x 4x rgba(0, 0, 0, 0.25);
 }
 
